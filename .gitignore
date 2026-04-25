@@ -1,0 +1,38 @@
+# Data files
+data/
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Misc
+*.log
+*.tmp
